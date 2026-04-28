@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "bookId": "shokyu-1",
+    "chapterId": 1,
+    "title": "Perkenalan & Kalimat Dasar",
+    "grammar": "～は～です、～ですか"
+  },
+  "material": {
+    "intro": "Halo <ruby>皆<rt>みな</rt></ruby>さん! Sensei di sini buat nemenin kalian belajar Bab 1 buku Minna no Nihongo. \nDi bab awal ini, kita bakal belajar gimana caranya ngenalin diri dan bikin kalimat dasar yang sopan. \nSiap-siap ya, karena ini adalah pondasi biar kamu bisa ngomong Jepang dengan luwes! 🚀🌟\n",
+    "subsections": [
+      {
+        "id": "vocab-1",
+        "type": "Kosakata Baru",
+        "title": "✨ Kosakata Esensial Bab 1",
+        "explanation": "Sebelum masuk ke rumus, hapalin dulu yuk kata-kata kunci ini! \n- <ruby>私<rt>わたし</rt></ruby>: Saya \n- <ruby>貴方<rt>あなた</rt></ruby>: Anda \n- <ruby>人<rt>ひと</rt></ruby>: Orang \n- <ruby>学生<rt>がくせい</rt></ruby>: Siswa \n- <ruby>先生<rt>せんせい</rt></ruby>: Guru \n- <ruby>会社員<rt>かいしゃいん</rt></ruby>: Karyawan Perusahaan \n- <ruby>銀行員<rt>ぎんこういん</rt></ruby>: Pegawai Bank \n- <ruby>医者<rt>いしゃ</rt></ruby>: Dokter \n- <ruby>大学<rt>だいがく</rt></ruby>: Universitas \n- <ruby>初<rt>はじ</rt></ruby>めまして: Salam kenal (pertama kali ketemu)\n",
+        "examples": [
+          {
+            "indonesian": "Saya adalah siswa.",
+            "japanese": "<ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です。",
+            "romaji": "Watashi wa gakusei desu."
+          },
+          {
+            "indonesian": "Orang itu adalah guru.",
+            "japanese": "あの<ruby>人<rt>ひと</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>です。",
+            "romaji": "Ano hito wa sensei desu."
+          }
+        ],
+        "exercisePrompt": "Coba sebutkan profesi kamu dalam bahasa Jepang menggunakan kosakata di atas!"
+      },
+      {
+        "id": "grammar-1",
+        "type": "Pola Kalimat",
+        "title": "🧠 Tata Bahasa 1: N1 は N2 です",
+        "explanation": "### 🧠 Makna & Logika Dasar \nPola ini artinya 'N1 adalah N2'. \nPartikel <ruby>は<rt>は</rt></ruby> (dibaca 'wa') berfungsi sebagai penanda topik, sedangkan です (desu) adalah akhiran sopan untuk menyatakan sesuatu. \nLogikanya: Topik (N1) + Penanda Topik (は) + Penjelasan (N2) + Penutup Sopan (です). \n\n### 📌 Bedah Struktur & Rumus \n- [Subjek/Topik] + は (wa) + [Kata Benda/Status] + です (desu). \n\n### 📚 Kategori Penggunaan \n- Memperkenalkan diri sendiri. \n- Menyatakan identitas atau profesi seseorang. \n- Menyatakan kewarganegaraan. \n\n### 🏢 Contoh di Kehidupan Nyata \n- 🧑‍🏫 **Kasual**: <ruby>私<rt>わたし</rt></ruby>はルフィです。 (Gue Luffy!) \n- 💼 **Formal**: <ruby>私<rt>わたし</rt></ruby>はサトウです。 (Saya adalah Sato.) \n\n### 🚀 Penggunaan Lanjutan / Variasi \nDalam percakapan lisan, subjek <ruby>私<rt>わたし</rt></ruby>は sering dihilangkan kalau sudah jelas siapa yang dibicarakan. \n\n### 🛑 Warning! (Pantangan Pemula) \nJangan baca は sebagai 'ha' saat berfungsi sebagai partikel! Harus dibaca 'wa'. \n\n### 🎉 Intinya \nGunakan pola ini buat bilang 'Saya adalah...' atau 'Ini adalah...'.\n",
+        "examples": [
+          {
+            "indonesian": "Saya adalah Mike Miller.",
+            "japanese": "<ruby>私<rt>わたし</rt></ruby>はマイク・ミラーです。",
+            "romaji": "Watashi wa Maiku Mira- desu."
+          },
+          {
+            "indonesian": "Saudara Sato adalah guru.",
+            "japanese": "サトウさんは<ruby>先生<rt>せんせい</rt></ruby>です。",
+            "romaji": "Sato-san wa sensei desu."
+          },
+          {
+            "indonesian": "Saya adalah karyawan perusahaan.",
+            "japanese": "<ruby>私<rt>わたし</rt></ruby>は<ruby>会社員<rt>かいしゃいん</rt></ruby>です。",
+            "romaji": "Watashi wa kaishain desu."
+          }
+        ],
+        "exercisePrompt": "Buatlah satu kalimat yang memperkenalkan nama kamu sendiri!"
+      },
+      {
+        "id": "grammar-2",
+        "type": "Pola Kalimat",
+        "title": "🧠 Tata Bahasa 2: N1 は N2 じゃありません",
+        "explanation": "### 🧠 Makna & Logika Dasar \nPola ini adalah bentuk negatif dari です. Artinya 'N1 BUKAN N2'. \n'Ja arimasen' bikin kalimat kamu jadi bermakna 'tidak' atau 'bukan'. \n\n### 📌 Bedah Struktur & Rumus \n- [Topik] + は + [Kata Benda] + じゃありません (ja arimasen). \n\n### 📚 Kategori Penggunaan \n- Menyangkal status atau profesi. \n- Mengoreksi informasi yang salah. \n\n### 🏢 Contoh di Kehidupan Nyata \n- 🧑‍🏫 **Kasual**: <ruby>学生<rt>가くせい</rt></ruby>じゃありません。 (Bukan siswa kok.) \n- 💼 **Formal**: わたしたちは<ruby>医者<rt>いしゃ</rt></ruby>ではありません。 (Kami bukan dokter.) \n\n### 🚀 Penggunaan Lanjutan / Variasi \nUntuk situasi yang SANGAT formal atau dalam tulisan, gunakan 'dewa arimasen' (<ruby>で<rt>で</rt></ruby>は<ruby>ありません<rt>ありません</rt></ruby>). \n\n### 🛑 Warning! (Pantangan Pemula) \nJangan pakai じゃありません buat kata kerja (V) atau kata sifat (Adj-i), pola ini HANYA untuk Kata Benda di Bab 1 ini! \n\n### 🎉 Intinya \nPake 'ja arimasen' buat nolak atau bilang 'bukan'.\n",
+        "examples": [
+          {
+            "indonesian": "Saudara Santos bukan siswa.",
+            "japanese": "サントスさんは<ruby>学生<rt>がくせい</rt></ruby>じゃありません。",
+            "romaji": "Santosu-san wa gakusei ja arimasen."
+          },
+          {
+            "indonesian": "Saya bukan dokter.",
+            "japanese": "<ruby>私<rt>わたし</rt></ruby>は<ruby>医者<rt>いしゃ</rt></ruby>じゃありません。",
+            "romaji": "Watashi wa isha ja arimasen."
+          },
+          {
+            "indonesian": "Orang itu bukan guru.",
+            "japanese": "あの<ruby>人<rt>ひと</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>じゃありません。",
+            "romaji": "Ano hito wa sensei ja arimasen."
+          }
+        ],
+        "exercisePrompt": "Coba ubah kalimat 'Saya adalah guru' menjadi kalimat negatif!"
+      },
+      {
+        "id": "grammar-3",
+        "type": "Pola Kalimat",
+        "title": "🧠 Tata Bahasa 3: N1 は N2 ですか",
+        "explanation": "### 🧠 Makna & Logika Dasar \nPartikel か (ka) di akhir kalimat fungsinya sama kaya tanda tanya (?). \nGunanya buat nanya apakah N1 itu N2? \n\n### 📌 Bedah Struktur & Rumus \n- [Kalimat Berita] + か ? \n\n### 📚 Kategori Penggunaan \n- Menanyakan identitas orang lain. \n- Mengonfirmasi informasi. \n\n### 🏢 Contoh di Kehidupan Nyata \n- 🧑‍🏫 **Kasual**: ミラーさんですか。 (Miller-san ya?) \n- 💼 **Formal**: あなたはサトウさんですか。 (Apakah Anda saudara Sato?) \n\n### 🚀 Penggunaan Lanjutan / Variasi \nKalau jawabannya 'Iya', pakai 'Hai'. Kalau 'Bukan', pakai 'Iie'. \n\n### 🛑 Warning! (Pantangan Pemula) \nDalam bahasa Jepang formal, kita nggak pakai tanda tanya (?) di akhir kalimat, cukup akhiri dengan partikel か dan tanda titik (。). \n\n### 🎉 Intinya \nTambahin 'ka' di akhir biar jadi kalimat tanya!\n",
+        "examples": [
+          {
+            "indonesian": "Apakah Anda saudara Miller?",
+            "japanese": "あなたはミラーさんですか。",
+            "romaji": "Anata wa Mira-san desu ka."
+          },
+          {
+            "indonesian": "Apakah orang itu seorang dokter?",
+            "japanese": "あの<ruby>人<rt>ひと</rt></ruby>は<ruby>医者<rt>いしゃ</rt></ruby>ですか。",
+            "romaji": "Ano hito wa isha desu ka."
+          },
+          {
+            "indonesian": "Apakah Anda seorang siswa?",
+            "japanese": "あなたは<ruby>学生<rt>がくせい</rt></ruby>ですか。",
+            "romaji": "Anata wa gakusei desu ka."
+          }
+        ],
+        "exercisePrompt": "Tanyakan profesi seseorang (misal: dokter) menggunakan pola ini!"
+      },
+      {
+        "id": "grammar-4",
+        "type": "Pola Kalimat",
+        "title": "🧠 Tata Bahasa 4: N も",
+        "explanation": "### 🧠 Makna & Logika Dasar \nPartikel も (mo) artinya 'juga'. \nPola ini dipakai kalau informasi tentang subjek kedua SAMA dengan subjek pertama. \n\n### 📌 Bedah Struktur & Rumus \n- [Topik 1] は [N] です。 [Topik 2] も [N] です。 \n\n### 📚 Kategori Penggunaan \n- Menyatakan kesamaan profesi, kewarganegaraan, dll. \n\n### 🏢 Contoh di Kehidupan Nyata \n- 🧑‍🏫 **Kasual**: <ruby>私<rt>わたし</rt></ruby>も！ (Aku juga!) \n- 💼 **Formal**: ミラーさんも<ruby>会社員<rt>かいしゃいん</rt></ruby>です。 (Miller-san juga karyawan.) \n\n### 🚀 Penggunaan Lanjutan / Variasi \nPartikel も menggantikan posisi partikel は. Jadi jangan tulis 'wa mo' ya, cukup 'mo' saja! \n\n### 🛑 Warning! (Pantangan Pemula) \nIngat, も diletakkan setelah subjek, bukan di akhir kalimat. \n\n### 🎉 Intinya \nPakai 'mo' kalau mau bilang 'juga'.\n",
+        "examples": [
+          {
+            "indonesian": "Miller adalah karyawan. Gupta juga karyawan.",
+            "japanese": "ミラーさんは<ruby>会社員<rt>かいしゃいん</rt></ruby>です。グプタさんも<ruby>会社員<rt>かいしゃいん</rt></ruby>です。",
+            "romaji": "Mira-san wa kaishain desu. Guputa-san mo kaishain desu."
+          },
+          {
+            "indonesian": "Saya adalah orang Indonesia. Dia juga orang Indonesia.",
+            "japanese": "<ruby>私<rt>わたし</rt></ruby>はインドネシア<ruby>人<rt>じん</rt></ruby>です。あの<ruby>人<rt>ひと</rt></ruby>もインドネシア<ruby>人<rt>じん</rt></ruby>です。",
+            "romaji": "Watashi wa Indonesia-jin desu. Ano hito mo Indonesia-jin desu."
+          }
+        ],
+        "exercisePrompt": "Buat kalimat: 'Saya siswa. Teman saya juga siswa.'"
+      },
+      {
+        "id": "grammar-5",
+        "type": "Pola Kalimat",
+        "title": "🧠 Tata Bahasa 5: N1 の N2",
+        "explanation": "### 🧠 Makna & Logika Dasar \nPartikel の (no) berfungsi buat menghubungkan dua kata benda. \nN1 menjelaskan atau memiliki N2. \n\n### 📌 Bedah Struktur & Rumus \n- [Pemilik/Afiliasi] + の + [Benda/Status]. \n\n### 📚 Kategori Penggunaan \n- Menyatakan kepemilikan. \n- Menyatakan asal organisasi/perusahaan. \n\n### 🏢 Contoh di Kehidupan Nyata \n- 🧑‍🏫 **Kasual**: <ruby>私<rt>わたし</rt></ruby>の<ruby>本<rt>ほん</rt></ruby> (Buku gue). \n- 💼 **Formal**: IMCの<ruby>社員<rt>しゃいん</rt></ruby> (Karyawan IMC). \n\n### 🚀 Penggunaan Lanjutan / Variasi \nN1 biasanya adalah kelompok yang lebih besar (perusahaan/negara) dan N2 adalah bagian di dalamnya. \n\n### 🛑 Warning! (Pantangan Pemula) \nJangan terbalik! Di bahasa Indonesia 'Buku saya', di Jepang jadi 'Saya の Buku'. \n\n### 🎉 Intinya \nの itu penghubung yang artinya 'milik' atau 'dari'.\n",
+        "examples": [
+          {
+            "indonesian": "Siswa universitas.",
+            "japanese": "<ruby>大学<rt>だいがく</rt></ruby>の<ruby>学生<rt>가くせい</rt></ruby>",
+            "romaji": "Daigaku no gakusei"
+          },
+          {
+            "indonesian": "Miller adalah karyawan IMC.",
+            "japanese": "ミラーさんはIMCの<ruby>会社員<rt>かいしゃいん</rt></ruby>です。",
+            "romaji": "Mira-san wa IMC no kaishain desu."
+          }
+        ],
+        "exercisePrompt": "Coba sebutkan kamu dari perusahaan atau sekolah mana menggunakan partikel の!"
+      },
+      {
+        "id": "conversation-1",
+        "type": "Percakapan",
+        "title": "💬 Percakapan: Perkenalan Pertama",
+        "explanation": "Yuk simak gimana cara Mira-san (Miller) kenalan sama Sato-san di kantor! \nPerhatikan penggunaan 'Hajimemashite' dan 'Desu'.\n",
+        "examples": [
+          {
+            "indonesian": "Selamat pagi.",
+            "japanese": "おはようございます。",
+            "romaji": "Ohayou gozaimasu.",
+            "speaker": "Sato"
+          },
+          {
+            "indonesian": "Selamat pagi. Saudara Sato, ini adalah saudara Mike Miller.",
+            "japanese": "おはようございます。サトウさん、こちらはマイク・ミラーさんです。",
+            "romaji": "Ohayou gozaimasu. Sato-san, kochira wa Maiku Mira- san desu.",
+            "speaker": "Yamada"
+          },
+          {
+            "indonesian": "Apa kabar? (Salam kenal). Saya Mike Miller.",
+            "japanese": "<ruby>初<rt>はじ</rt></ruby>めまして。マイク・ミラーです。",
+            "romaji": "Hajimemashite. Maiku Mira- desu.",
+            "speaker": "Miller"
+          },
+          {
+            "indonesian": "Saya dari Amerika. Mohon bantuannya.",
+            "japanese": "アメリカから<ruby>来<rt>き</rt></ruby>ました。どうぞよろしく。",
+            "romaji": "Amerika kara kimashita. Douzo yoroshiku.",
+            "speaker": "Miller"
+          },
+          {
+            "indonesian": "Saya Sato Keiko. Mohon bantuannya juga.",
+            "japanese": "サトウけいこです。どうぞよろしく。",
+            "romaji": "Sato Keiko desu. Douzo yoroshiku.",
+            "speaker": "Sato"
+          }
+        ],
+        "exercisePrompt": "Praktekkan dialog ini dengan temanmu, ganti namanya jadi nama kalian sendiri!"
+      }
+    ],
+    "cultureFact": "Di Jepang, saat berkenalan untuk pertama kalinya, sangat penting untuk mengucapkan 'Hajimemashite' sambil membungkuk (ojigi). \nIni adalah bentuk rasa hormat kepada lawan bicara. \nJangan lupa, gunakan akhiran '-san' untuk memanggil orang lain agar terdengar sopan! 🙇‍♂️🇯🇵\n"
+  },
+  "supplementaryData": {
+    "analogies": {
+      "grammar-4": "Halo, murid-murid Sensei yang hebat! Konnichiwa! 🌸 Senang sekali bisa menemani kalian belajar hari ini. Kali ini kita akan membahas tentang \"🧠 Tata Bahasa 4: N も\". Agar mudah ingat, bayangkan **Geng Nongkrong di Kafe**. Mari kita gunakan analogi \"**Si Tukang Copy-Paste**\":\n\n### ☕ Analogi Si Tukang Copy-Paste\n1. **Partikel は (Wa)** = \"**Si Trendsetter**\"\n   (Dia yang pertama kali datang dan memesan kopi latte. Dia yang memberi tahu informasi pertama kali).\n   *Ingat:* (Dia pembuka informasi awal).\n2. **Partikel も (Mo)** = \"**Si Tukang Ikut-Ikutan**\"\n   (Setelah lihat temannya pesan latte, dia bilang \"Aku juga latte deh!\". Dia bertugas meniru atau menyatakan kesamaan dengan si Trendsetter).\n   *Ingat:* (Hanya muncul kalau informasinya sama persis).\n\n### ⚠️ Aturan \"Satu Kursi Satu Orang\"\n(Dalam bahasa Jepang, partikel は dan も itu ibarat dua orang yang memperebutkan satu kursi. Kalau si 'Mo' datang, maka si 'Wa' harus pergi mengalah. Mereka tidak bisa duduk barengan!).\n- ❌ **Salah:** 私**はも**学生です (Watashi wa mo gakusei desu) — (Wah, ini namanya maruk! Pilih salah satu saja ya, jangan digabung!)\n- ✅ **Benar:** 私**も**学生です (Watashi mo gakusei desu)\n(Partikel 'mo' langsung menggantikan posisi 'wa' setelah subjek untuk menyambungkan kesamaan informasi).\n\n### 💡 Tips Cepat Sensei\n- **Ganti Wa dengan Mo**: Cukup buang 'wa' dan ganti dengan 'mo' kalau mau bilang 'juga'.\n- **Letak Jangan Tertukar**: Ingat, 'mo' itu nempel di subjek/orangnya, bukan ditaruh di paling belakang kalimat seperti kata \"too\" di bahasa Inggris.\n\nBagaimana? Mudah, bukan? Coba deh sekarang lihat teman di sebelahmu, kalau dia lagi minum air, langsung bilang \"Watashi mo!\" biar makin jago! Ganbatte kudasai! (Semangat ya!) 🌟",
+      "grammar-3": "Halo, murid-murid Sensei yang hebat! Konnichiwa! 🌸 Senang sekali bisa menemani kalian belajar hari ini. Kali ini kita akan membahas tentang \"🧠 Tata Bahasa 3: N1 は N2 ですか\". Agar mudah ingat, bayangkan kamu sedang menjadi detektif yang ingin memastikan identitas seseorang di sebuah pesta topeng. Mari kita gunakan analogi \"Si Detektif Kepo KA\":\n\n### ☕ Analogi Si Detektif Kepo KA\n1. **Kalimat です (Desu)** = \"Pernyataan Tegas\"\n   Bayangkan kamu bilang \"Ini adalah kopi.\" (Titik, nggak pakai debat). Ini adalah kalimat berita biasa di mana kamu sudah yakin dengan infonya.\n   *Ingat:* Desu adalah penutup kalimat pernyataan.\n2. **Partikel か (Ka)** = \"Kancing Penasaran\"\n   Begitu kamu pasang kancing \"Ka\" di paling ujung kalimat, suaramu otomatis naik dan kamu berubah jadi kepo. \"Ini kopi... KAH?\" \n   *Ingat:* Ka adalah pengganti tanda tanya (?) yang bertugas mengubah pernyataan jadi pertanyaan.\n\n### ⚠️ Aturan \"Si Pelit Tanda Tanya\"\nDalam bahasa Jepang formal, kita harus hemat tinta! Kalau sudah ada \"Ka\", tanda tanya (?) itu jadi pengangguran karena tugasnya sudah diambil alih.\n- ❌ **Salah:** あなたはサトウさんですか? — (Kebanyakan gaya! Cukup pilih salah satu: mau 'Ka' atau mau tanda tanya).\n- ✅ **Benar:** あなたはサトウさんですか。\n(Partikel 'Ka' di akhir kalimat sudah otomatis berfungsi sebagai tanda tanya, jadi cukup akhiri dengan tanda titik saja).\n\n### 💡 Tips Cepat Sensei\n- **[Poin 1]**: Cukup tambahkan **Ka** di akhir kalimat berita untuk bertanya.\n- **[Poin 2]**: Jawab dengan **Hai** (Iya) atau **Iie** (Bukan) untuk meresponnya.\n\nBagaimana? Mudah, bukan? Sekarang coba lihat benda di sekitar kalian dan tanya ke teman sebelah pakai pola ini, ya! Ganbatte kudasai! (Semangat ya!) 🌟",
+      "grammar-5": "Halo, murid-murid Sensei yang hebat! Konnichiwa! 🌸 Senang sekali bisa menemani kalian belajar hari ini. Kali ini kita akan membahas tentang \"🧠 Tata Bahasa 5: N1 の N2\". Agar mudah ingat, bayangkan kamu sedang menandai barang-barangmu di kelas agar tidak tertukar dengan milik teman. Mari kita gunakan analogi \"Label Nama di Kotak Bekal\":\n\n### ☕ Analogi Label Nama di Kotak Bekal\n1. **N1 (Kata Benda 1)** = \"Si Pemilik atau Induk\"\n   (Bisa berupa orang, perusahaan, atau negara. Bayangkan ini adalah nama yang tertulis di stiker label).\n   *Ingat:* N1 adalah yang punya atau kelompok besarnya.\n2. **の (Partikel No)** = \"Lem Perekat 'Milik'\"\n   (Ini adalah lem yang menempelkan identitas N1 ke bendanya. Tanpa lem ini, kata-katanya bakal berantakan dan nggak nyambung).\n   *Ingat:* の fungsinya menghubungkan pemilik dengan bendanya.\n3. **N2 (Kata Benda 2)** = \"Benda atau Isinya\"\n   (Ini adalah barangnya, seperti buku, tas, atau status pekerjaan seseorang di dalam perusahaan).\n   *Ingat:* N2 adalah benda yang dimiliki atau bagian dari N1.\n\n### ⚠️ Aturan \"Pantang Putar Balik\"\nDi bahasa Indonesia kita bilang \"Buku (N2) Saya (N1)\", tapi di Jepang polanya HARUS dibalik! Anggap saja kamu harus sebutkan siapa bosnya dulu baru sebutkan anak buahnya.\n- ❌ **Salah:** 本 の 私 (Hon no Watashi) — (Ini artinya \"Buku yang memiliki saya\", emangnya kamu milik buku? Hiii, seram!)\n- ✅ **Benar:** 私 の 本 (Watashi no Hon)\n(Partikel **の** di sini bertindak sebagai jembatan yang menegaskan bahwa N2 itu 'kepunyaan' atau 'bagian dari' N1).\n\n### 💡 Tips Cepat Sensei\n- **[Poin 1]**: Sebutkan **Pemilik** dulu, baru tambahkan **の**, lalu sebutkan **Bendanya**. (Owner NO Item).\n- **[Poin 2]**: Selain buat barang, の juga dipakai buat kasih tahu kamu kerja di mana. Contoh: \"IMC の Shain\" (Karyawan dari IMC).\n\nBagaimana? Mudah, bukan? Sekarang coba lihat benda di sekitarmu dan beri \"Label Nama\" menggunakan bahasa Jepang, ya! Jangan sampai tertukar seperti sandal di masjid! Ganbatte kudasai! (Semangat ya!) 🌟",
+      "grammar-2": "Halo, murid-murid Sensei yang hebat! Konnichiwa! 🌸 Senang sekali bisa menemani kalian belajar hari ini. Kali ini kita akan membahas tentang \"🧠 Tata Bahasa 2: N1 は N2 じゃありません\". Agar mudah ingat, bayangkan **kejadian salah antar pesanan di sebuah warung ramen**. Mari kita gunakan analogi \"**Si Label Salah Alamat**\":\n\n### ☕ Analogi Si Label Salah Alamat\n1. **N1 は** = \"**Barang di Depan Mata**\"\n   (Ini adalah topik atau benda yang lagi kita tunjuk. Misal, semangkuk mi yang baru diletakkan pelayan di meja kamu).\n   *Ingat:* (N1 adalah si \"Tersangka Utama\" yang mau kita bahas).\n2. **N2** = \"**Nama Menu di Bon**\"\n   (Ini adalah identitas atau status yang mau kita sangkal).\n   *Ingat:* (N2 adalah label yang kita tempelkan, tapi ternyata salah).\n3. **じゃありません** = \"**Tombol 'Bukan Ini'**\"\n   (Ini adalah jurus pamungkas buat bilang kalau label N2 itu gak cocok sama si N1. Seperti kamu bilang ke pelayan, \"Ini bukan pesanan saya!\").\n   *Ingat:* (Fungsinya untuk mengubah kalimat jadi negatif atau 'bukan').\n\n### ⚠️ Aturan \"Geng Noun-Only (Hanya Kata Benda)\"\nPola ini sangat setia kawan, dia cuma mau berteman sama **Kata Benda**. Jangan coba-coba bawa Kata Kerja atau Kata Sifat ke pesta ini, ya! Kalau nekat, nanti kalimatnya jadi galau dan nggak nyambung.\n- ❌ **Salah:** Taberu じゃありません — (Makan 'bukan'? Duh, kalau mau bilang 'nggak makan' ada jurusnya sendiri nanti!)\n- ✅ **Benar:** Gakusei じゃありません (Bukan siswa)\n(Ingat ya, 'Ja arimasen' itu fungsinya kayak penghapus papan tulis khusus untuk status atau identitas benda saja).\n\n### 💡 Tips Cepat Sensei\n- **Poin 1**: **Ja arimasen** adalah cara asyik dan kasual buat bilang \"Bukan\".\n- **Poin 2**: Kalau mau terlihat lebih profesional atau bicara sama bos, ganti \"Ja\" jadi \"Dewa\" (**Dewa arimasen**). Rasanya jadi lebih formal seketika!\n\nBagaimana? Mudah, bukan? Sekarang coba lihat benda di sekitarmu, lalu tunjuk dan katakan kalau itu \"Bukan\" sesuatu (misalnya: \"Ini bukan pacar saya!\" eh?). Ganbatte kudasai! (Semangat ya!) 🌟",
+      "grammar-1": "Halo, murid-murid Sensei yang hebat! Konnichiwa! 🌸 Senang sekali bisa menemani kalian belajar hari ini. Kali ini kita akan membahas tentang \"🧠 Tata Bahasa 1: N1 は N2 です\". Agar mudah ingat, bayangkan kamu sedang memberikan label nama pada barang-barang di meja belajarmu. Mari kita gunakan analogi \"**Si Botol Bumbu Berlabel**\":\n\n### ☕ Analogi Si Botol Bumbu Berlabel\n1. **N1 (Topik)** = \"Botol Kosongnya\"\n   (Ini adalah benda atau orang yang ingin kita perkenalkan. Tanpa botolnya, kita tidak punya apa-apa untuk diberi label).\n   *Ingat:* N1 adalah subjek atau topik yang ingin dibahas.\n2. **は (wa)** = \"Lampu Sorot / Jari Telunjuk\"\n   (Fungsinya menunjuk si botol sambil berteriak, \"Woi, perhatikan botol yang ini ya!\". Dia menandai bahwa N1 adalah bintang utamanya).\n   *Ingat:* Ditulis 'ha' tapi wajib dibaca 'wa'.\n3. **N2 (Isi/Identitas)** = \"Tulisan di Label\"\n   (Ini adalah isinya. Apakah botol itu berisi 'Garam', 'Gula', atau 'Kopi'? Di sini kita menaruh nama, profesi, atau status).\n   *Ingat:* N2 adalah penjelasan tentang siapa/apa si N1 itu.\n4. **です (desu)** = \"Tutup Botol yang Rapi\"\n   (Kalimat tanpa 'desu' itu seperti botol tanpa tutup, isinya bisa tumpah dan tidak sopan! 'Desu' berfungsi mengunci kalimat agar terdengar santun dan selesai).\n   *Ingat:* Penutup wajib untuk kalimat formal yang sopan.\n\n### ⚠️ Aturan \"Si Bunglon Huruf HA\"\nJangan sampai tertipu oleh penampilan luar! Meskipun huruf yang digunakan adalah は (ha), ketika dia bekerja sebagai satpam (partikel) penanda topik, dia mengubah identitasnya.\n- ❌ **Salah:** Watashi **HA** Luffy desu. — (Aduh, telinga Sensei gatal dengarnya! Ini salah sebut nama partikel.)\n- ✅ **Benar:** Watashi **WA** Luffy desu.\n(Anggap saja dia sedang menyamar. Di dalam tulisan dia pakai baju 'HA', tapi saat dipanggil namanya adalah 'WA'.)\n\n### 💡 Tips Cepat Sensei\n- **Hapus Kalau Jelas**: Kalau kamu sedang menunjuk diri sendiri, \"Watashi wa\" (N1 + wa) boleh disimpan di saku alias tidak usah diucapkan. Langsung saja \"Luffy desu!\".\n- **Rumus Pasti**: Ingat saja: [Benda] + WA + [Identitas] + DESU. Beres!\n\nBagaimana? Mudah, bukan? Sekarang coba lihat benda di sekitarmu, lalu tunjuk dan beri label menggunakan pola ini. Misalnya, \"Kore wa pen desu!\" (Ini adalah pulpen). Jangan takut salah bicara ya! Ganbatte kudasai! (Semangat ya!) 🌟",
+      "vocab-1": "Halo, murid-murid Sensei yang hebat! Konnichiwa! 🌸 Senang sekali bisa menemani kalian belajar hari ini. Kali ini kita akan membahas tentang \"✨ Kosakata Esensial Bab 1\". Agar mudah ingat, bayangkan **suasana pesta perkenalan di sebuah kafe baru**. Mari kita gunakan analogi \"**Pesta Kartu Nama**\":\n\n### ☕ Analogi Pesta Kartu Nama\n1. **私 (Watashi) & 貴方 (Anata)** = \"Pemain Utama & Lawan Main\"\n   Bayangkan kamu sedang memegang kartu namamu sendiri (Watashi) dan menunjuk orang di depanmu yang baru kamu temui (Anata). Ini adalah dasar agar percakapan bisa dimulai!\n   *Ingat:* Watashi = Saya, Anata = Anda.\n2. **人 (Hito)** = \"Tamu di Kafe\"\n   Ini adalah sebutan umum untuk siapa saja yang punya nyawa dan berjalan di dalam kafe tersebut tanpa melihat statusnya.\n   *Ingat:* Kata umum untuk 'Orang'.\n3. **学生, 先生, 会社員, 銀行員, 医者** = \"Seragam Pesta\"\n   Setiap orang datang ke pesta dengan 'seragam' profesinya masing-masing. Ada yang bawa buku (Gakusei), bawa kapur (Sensei), pakai jas kantor (Kaishain), hitung uang (Ginkouin), atau bawa stetoskop (Isha).\n   *Ingat:* Ini adalah label pekerjaan atau status sosialmu.\n4. **大学 (Daigaku)** = \"Markas Besar\"\n   Tempat para Gakusei (siswa) berkumpul untuk ditempa menjadi ahli sebelum akhirnya mereka memakai seragam kerja.\n   *Ingat:* Universitas adalah tempat belajar tingkat tinggi.\n5. **始めまして (Hajimemashite)** = \"Kunci Pembuka Pintu\"\n   Bayangkan kamu berdiri di depan pintu kafe. Untuk bisa masuk dan ngobrol dengan orang baru, kamu harus mengucapkan kata kunci ini sambil membungkuk sopan.\n   *Ingat:* Salam wajib khusus pertemuan pertama kali.\n\n### ⚠️ Aturan \"Si Sopan yang Anti-Sok-Kenal\"\nDalam bahasa Jepang, penggunaan kata \"Anata\" (Anda) itu sebenarnya agak sensitif kalau kita sudah tahu nama atau jabatan orang tersebut. Jangan sampai kita terlihat seperti orang yang tidak sopan ya!\n- ❌ **Salah:** \"Anata wa Sensei desu ka?\" — (Terasa terlalu berjarak atau dingin jika diucapkan ke guru di depanmu).\n- ✅ **Benar:** \"Sensei wa Sensei desu ka?\" atau langsung panggil namanya \"[Nama]-san\".\n(Gunakan nama atau profesi orang tersebut sebagai pengganti 'Anda' agar kamu terdengar lebih ramah dan natural).\n\n### 💡 Tips Cepat Sensei\n- **Akhiran -in**: Perhatikan kata *Kaishain* dan *Ginkouin*. Akhiran **-in** (員) biasanya menunjukkan anggota atau pegawai suatu instansi. Gampang kan hapalnya?\n- **Hajimemashite**: Ingat, kata ini \"sekali seumur hidup\" untuk setiap orang yang kamu temui. Kalau besok ketemu lagi, jangan pakai ini lagi ya!\n\nBagaimana? Mudah, bukan? Sekarang coba lihat orang-orang di sekitarmu dan tebak \"seragam\" (profesi) apa yang mereka pakai menggunakan kosakata tadi! Ganbatte kudasai! (Semangat ya!) 🌟"
+    },
+    "story": {
+      "title": "<ruby>変<rt>へん</rt></ruby>な<ruby>学校<rt>がっこう</rt></ruby>",
+      "japanese": "「あなたは<ruby>人間<rt>にんげん</rt></ruby>ですか。」「いいえ、<ruby>私<rt>わたし</rt></ruby>は<ruby>猫<rt>ねこ</rt></ruby>です。」「あの<ruby>人<rt>ひと</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>ですか。」「いいえ、あの<ruby>人<rt>ひと</rt></ruby>は<ruby>魚<rt>さかな</rt></ruby>です。」",
+      "romaji": "Anata wa ningen desu ka. Iie, watashi wa neko desu. Ano hito wa sensei desu ka. Iie, ano hito wa sakana desu.",
+      "indonesian": "\"Apakah Anda manusia?\" \"Bukan, saya adalah seekor kucing.\" \"Apakah orang itu seorang guru?\" \"Bukan, orang itu adalah seekor ikan.\""
+    },
+    "quiz": [
+      {
+        "question": "<ruby>私<rt>わたし</rt></ruby> ___ <ruby>田中<rt>たなか</rt></ruby>です。Pilihlah partikel yang tepat untuk melengkapi kalimat tersebut.",
+        "options": [
+          "は",
+          "が",
+          "を",
+          "に"
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Partikel \"は\" digunakan untuk menandai subjek atau topik dalam kalimat berpola A adalah B (A は B です)."
+      },
+      {
+        "question": "Pilihlah kalimat tanya yang benar untuk menanyakan apakah seseorang adalah seorang <ruby>学生<rt>がくせい</rt></ruby> (siswa).",
+        "options": [
+          "あなたは <ruby>学生<rt>がくせい</rt></ruby>です。",
+          "あなたは <ruby>学生<rt>がくせい</rt></ruby>ですか。",
+          "あなたも <ruby>学生<rt>がくせい</rt></ruby>です。",
+          "あなたは <ruby>学生<rt>がくせい</rt></ruby>。"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Untuk membuat kalimat tanya dalam bahasa Jepang, tambahkan partikel \"か\" di akhir kalimat \"です\"."
+      },
+      {
+        "question": "ミラーさんは <ruby>先生<rt>せんせい</rt></ruby> ____。Lengkapi kalimat untuk menyatakan \"Sdr. Miller adalah seorang guru\".",
+        "options": [
+          "ですか",
+          "です",
+          "では",
+          "ます"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "\"です\" digunakan di akhir kalimat predikat kata benda untuk menyatakan pernyataan positif yang sopan."
+      },
+      {
+        "question": "Q: <ruby>佐藤<rt>さとう</rt></ruby>さんは <ruby>会社員<rt>かいしゃいん</rt></ruby>ですか。A: はい、<ruby>会社員<rt>かいしゃいん</rt></ruby>____。",
+        "options": [
+          "ですか",
+          "です",
+          "ではありません",
+          "でした"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Karena jawaban dimulai dengan \"はい\" (ya), maka kalimat penutupnya harus menggunakan bentuk positif yaitu \"です\"."
+      }
+    ],
+    "readingDojo": {
+      "title": "<ruby>自己紹介<rt>じこしょうかい</rt></ruby>",
+      "passage": "<ruby>初<rt>はじめ</rt></ruby>めまして。<ruby>私<rt>わたし</rt></ruby>は<ruby>田中<rt>たなか</rt></ruby>です。<ruby>私<rt>わたし</rt></ruby>は<ruby>日本人<rt>にほんじん</rt></ruby>です。<ruby>私<rt>わたし</rt></ruby>は<ruby>大学生<rt>だいがくせい</rt></ruby>です。あの方はサントスさんです。サントスさんはブラジル<ruby>人<rt>じん</rt></ruby>です。サントスさんは<ruby>大学生<rt>だいがくせい</rt></ruby>ではありません。サントスさんは<ruby>会社員<rt>かいしゃいん</rt></ruby>です。ミラーさんはアメリカ<ruby>人<rt>じん</rt></ruby>ですか。はい、ミラーさんはアメリカ<ruby>人<rt>じん</rt></ruby>です。ミラーさんも<ruby>会社員<rt>かいしゃいん</rt></ruby>です。どうぞよろしくお願いします。",
+      "translation": "Perkenalkan. Saya Tanaka. Saya orang Jepang. Saya adalah seorang mahasiswa. Orang itu adalah Tuan Santos. Tuan Santos adalah orang Brasil. Tuan Santos bukan mahasiswa. Tuan Santos adalah karyawan perusahaan. Apakah Tuan Miller orang Amerika? Ya, Tuan Miller adalah orang Amerika. Tuan Miller juga karyawan perusahaan. Senang berkenalan dengan Anda.",
+      "vocabularies": [
+        {
+          "meaning": "Mahasiswa",
+          "word": "<ruby>大学生<rt>だいがくせい</rt></ruby>"
+        },
+        {
+          "meaning": "Karyawan perusahaan",
+          "word": "<ruby>会社員<rt>かいしゃいん</rt></ruby>"
+        },
+        {
+          "meaning": "Orang Jepang",
+          "word": "<ruby>日本人<rt>にほんじん</rt></ruby>"
+        }
+      ],
+      "questions": [
+        {
+          "correctAnswerIndex": 2,
+          "explanation": "Dalam teks paragraf pertama, Tanaka memperkenalkan dirinya sebagai orang Jepang (Nihonjin).",
+          "options": [
+            "ブラジル<ruby>人<rt>じん</rt></ruby>",
+            "アメリカ<ruby>人<rt>じん</rt></ruby>",
+            "<ruby>日本人<rt>にほんじん</rt></ruby>",
+            "<ruby>先生<rt>せんせい</rt></ruby>"
+          ],
+          "question": "<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>何人<rt>なにじん</rt></ruby>ですか。"
+        },
+        {
+          "correctAnswerIndex": 1,
+          "explanation": "Teks menyatakan bahwa Santos bukan mahasiswa (daigakusei dewa arimasen), melainkan karyawan perusahaan.",
+          "options": [
+            "はい、<ruby>大学生<rt>だいがくせい</rt></ruby>です。",
+            "いいえ、<ruby>大学生<rt>だいがくせい</rt></ruby>ではありません。",
+            "はい、ブラジル<ruby>人<rt>じん</rt></ruby>です。",
+            "いいえ、<ruby>会社員<rt>かいしゃいん</rt></ruby>ではありません。"
+          ],
+          "question": "サントスさんは<ruby>大学生<rt>だいがくせい</rt></ruby>ですか。"
+        },
+        {
+          "correctAnswerIndex": 3,
+          "explanation": "Paragraf terakhir menyatakan Miller juga seorang karyawan perusahaan (kaishain).",
+          "options": [
+            "<ruby>学生<rt>がくせい</rt></ruby>",
+            "<ruby>銀行員<rt>ぎんこういん</rt></ruby>",
+            "<ruby>医者<rt>いしゃ</rt></ruby>",
+            "<ruby>会社員<rt>かいしゃいん</rt></ruby>"
+          ],
+          "question": "ミラーさんの<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。"
+        }
+      ]
+    }
+  }
+}
